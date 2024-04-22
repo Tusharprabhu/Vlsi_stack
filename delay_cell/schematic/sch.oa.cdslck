@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      susha
+HostName                       Sushant_R_Naik
+ProcessIdentifier              5660
+ProcessCreationTime_UTC        1712731212
+ProcessCreationTime_Readable   Wed Apr 10 12:10:12 2024 India Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\VLSI\VLSI\VLSI\delay_cell\schematic\sch.oa.cdslck
+TimeEditLocked                 Wed Apr 10 12:10:55 2024 India Standard Time
